@@ -5,11 +5,3 @@ Use CPU
 train 36456
 val 5175
 test 10444
-	iters: 100, epoch: 1 | loss: 0.6968558
-	speed: 9.4275s/iter; left time: 266807.1794s
-	iters: 200, epoch: 1 | loss: 0.6978950
-	speed: 9.9393s/iter; left time: 280297.2859s
-Epoch: 1 cost time: 2700.771600961685
-Epoch: 1, Steps: 284 | Train Loss: 0.7463064 Vali Loss: 0.5402085 Test Loss: 0.2216588
-Validation loss decreased (inf --> 0.540208).  Saving model ...
-Updating learning rate to 0.0001
