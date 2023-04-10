@@ -9,8 +9,8 @@ seq_len=336
 model_name=PatchTST
 
 root_path_name=./dataset/
-data_path_name=electricity.csv
-model_id_name=Electricity
+data_path_name=exchange_rate.csv
+model_id_name=Exchange
 data_name=custom
 
 random_seed=2021
@@ -37,6 +37,8 @@ do
       --head_dropout 0\
       --patch_len 16\
       --stride 8\
+      --use_gpu 'True'\
+      --gpu 0\
       --des 'Exp' \
       --train_epochs 100\
       --patience 10\

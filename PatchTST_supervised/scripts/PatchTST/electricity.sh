@@ -37,6 +37,8 @@ do
       --head_dropout 0\
       --patch_len 16\
       --stride 8\
+      --use_gpu 'True'\
+      --gpu 0\
       --des 'Exp' \
       --train_epochs 100\
       --patience 10\

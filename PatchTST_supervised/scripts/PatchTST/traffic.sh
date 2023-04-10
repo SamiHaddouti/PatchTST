@@ -38,6 +38,8 @@ do
       --patch_len 16\
       --stride 8\
       --des 'Exp' \
+      --use_gpu 'True'\
+      --gpu 0\
       --train_epochs 100\
       --patience 10\
       --lradj 'TST'\
