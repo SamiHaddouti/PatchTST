@@ -1,12 +1,1 @@
-104_24_PatchTST_custom_ftM_sl104_ll48_pl24_dm16_nh4_el3_dl1_df128_fc1_ebtimeF_dtTrue_Exp_0  
-mse:1.4489234685897827, mae:0.7778323292732239, rse:0.5808910131454468
-
-104_36_PatchTST_custom_ftM_sl104_ll48_pl36_dm16_nh4_el3_dl1_df128_fc1_ebtimeF_dtTrue_Exp_0  
-mse:1.6412657499313354, mae:0.9040787816047668, rse:0.6144343018531799
-
-104_48_PatchTST_custom_ftM_sl104_ll48_pl48_dm16_nh4_el3_dl1_df128_fc1_ebtimeF_dtTrue_Exp_0  
-mse:1.7607605457305908, mae:0.9007893800735474, rse:0.6347520351409912
-
-104_60_PatchTST_custom_ftM_sl104_ll48_pl60_dm16_nh4_el3_dl1_df128_fc1_ebtimeF_dtTrue_Exp_0  
-mse:1.4092148542404175, mae:0.830859899520874, rse:0.5672487020492554
 
